@@ -1,0 +1,8 @@
+dist
+
+.envrc
+.set_env.sh
+.venv
+.vscode.ext
+.vscode.usr
+
