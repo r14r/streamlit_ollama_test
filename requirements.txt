@@ -1,5 +1,5 @@
 streamlit
-streamlit_ollama
+streamlit_ollama==0.1.1
 
 watchdog
 
